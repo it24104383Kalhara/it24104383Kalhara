@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Kalhara! 👋
+# Hi, I'm Vinod Kalhara! 👋
 ### Software Engineering Undergraduate | AI & Full-Stack Developer
 
 I am a 2nd-year Software Engineering student passionate about building intelligent applications and robust web systems. My current focus is bridging the gap between **Full-Stack Development** and **Artificial Intelligence**.
